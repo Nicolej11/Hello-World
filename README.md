@@ -1,4 +1,4 @@
 # Hello-World
 Practicing github flow
 
-my name is nicole . go noles. 
+my name is nicole johnson. go noles. 
